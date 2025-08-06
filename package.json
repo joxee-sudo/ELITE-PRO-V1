@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Joxee mkadinaliT,
+  "author": "Joxee,
   "license": "MIT",
   "dependencies": {
     "baileys": "^6.7.18",
