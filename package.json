@@ -1,5 +1,5 @@
 {
-  "name": "ELITE-PRO-V1",
+  "name": "CypherX MITenseenseensenedu-MD",
   "version": "1.0.5",
   "description": "A WhatsApp bot with rich features.",
   "main": "main.js",
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Chinedu-MD",
+  "author": "Joxee mkadinaliT,
   "license": "MIT",
   "dependencies": {
     "baileys": "^6.7.18",
